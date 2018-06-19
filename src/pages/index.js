@@ -155,8 +155,9 @@ class Index extends React.Component {
                       <li>Worked closely with product and engineering teams to constantly improve our internal processes and software.</li>
                     </ul>
                   </div>
-                  <a class="resume" href="http://preston.mcnabb.com/resume.pdf" target="_blank" data-reactid=".0.1.0.5">
-                  <div class="resume-link" data-reactid=".0.1.0.5.0">Grab a PDF of my full resume</div>
+
+                  <a className="resume" href="https://prestonmcnabb.netlify.com/resume.pdf" target="_blank" data-reactid=".0.1.0.5">
+                  <div className="resume-link" data-reactid=".0.1.0.5.0">Grab a PDF of my full resume</div>
                   </a>
                 </div>
               </div>
