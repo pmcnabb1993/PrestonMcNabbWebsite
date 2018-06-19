@@ -3,13 +3,13 @@ import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
 import Waypoint from 'react-waypoint'
-import Img from "gatsby-image";
+import Img from "gatsby-image"
 import Project from '../components/Project'
 
 import Header from '../components/Header'
 import Nav from '../components/Nav'
 import pic01 from '../assets/images/pic01.jpg'
-import GithubCorner from 'react-github-corner';
+import GithubCorner from 'react-github-corner'
 
 import weatherapp from '../assets/images/weatherapp.png'
 import LIRI from '../assets/images/LIRI.png'
@@ -22,7 +22,6 @@ import Dolo from '../assets/images/Dolo.png'
 import FriendFinder from '../assets/images/LiveAthlete.png'
 import LiveAthlete from '../assets/images/LiveAthlete.png'
 import StrangerTrivia from '../assets/images/StrangerTrivia.png'
-import skills from './skills.js'
 import Profile from '../assets/images/Profile.png'
 
 
